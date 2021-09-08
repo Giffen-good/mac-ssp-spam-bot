@@ -1,0 +1,8 @@
+# Change form_fields_sample.yaml => form_fields.yaml
+fname: sample
+lname: Rock
+email: guy@mcmaster.ca
+student_number: 00000000
+career_type: Alumni # CASE SENSITIVE
+purpose: 'Course enrolment' # CASE Sensitive
+secondary_issue: 
